@@ -1,6 +1,6 @@
-# avaliacao-desempenho-classificacao-doacao-sangue
-
 ## 🩸 Avaliação de Desempenho em Classificação de Doação de Sangue
+
+📌 **Esta atividade refere-se à disciplina de Fundamentos de Mineração de Dados e Ciência de Dados **, integrante do **curso de Capacitação Técnica e Empreendedora em Inteligência Artificial**, ofertado pela **FDTE (Fundação para o Desenvolvimento Tecnológico da Engenharia) da USP**.
 
 Este projeto apresenta um **experimento controlado de avaliação de desempenho** em um problema de **classificação binária desbalanceada**, utilizando o dataset *Blood Transfusion Service Center* (UCI Machine Learning Repository).
 
